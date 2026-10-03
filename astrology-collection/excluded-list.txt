@@ -1,0 +1,430 @@
+﻿전체 번역 목록
+
+[v1 기존 목록]
+
+v1-01. 마닐리우스 · 『아스트로노미카』
+v1-02. 프톨레마이오스 · 『테트라비블로스』
+v1-03. 발렌스 · 『점성술 선집』
+v1-04. 도로테우스 · 『카르멘 아스트롤로기쿰』
+v1-05. 피르미쿠스 · 『마테시스』 8권
+v1-06. 그리스 점성술 사본 목록 (CCAG)
+v1-07. 마샤알라 · 『세 논고』
+v1-08. 마샤알라 · 『천구와 별들의 이치에 관한 서한』
+v1-09. 사흘 이븐 비슈르 · 『입문서·질문론』
+v1-10. 아부 마샤르 · 『대입문서』
+v1-11. 아부 마샤르 · 『종교와 왕조에 관한 책』 — 대합론
+v1-12. 알카비시 · 『점성술 입문』
+v1-13. 알리 이븐 아비 리잘 · 『점성술 판단의 완전한 책』
+v1-14. 이븐 에즈라 · 『지혜의 시작』
+v1-15. 보나티 · 『천문학의 책』
+v1-16. 보나티·카르다노 / 헨리 콜리 편역 · 『점성술의 영혼』
+v1-17. 클로드 다리오 · 『별의 판단에 대한 쉬운 입문』
+v1-18. 준티니 · 『점성술의 거울』
+v1-19. 케플러 · 『점성술의 더욱 확실한 기초에 관하여』
+v1-20. 윌리엄 릴리 · 『기독교 점성술』
+v1-21. 컬페퍼 · 『천상의 징후』
+v1-22. 윌리엄 램지 · 『복원된 점성술』
+v1-23. 윌리엄 램지 · 『세계 점성술』
+v1-24. 존 개드버리 · 『출생 점성술의 가르침』
+v1-25. 모랭 · 『갈리아 점성술』
+v1-26. 헨리 콜리 · 『정련된 점성술의 열쇠』
+v1-27. 존 파트리지 · 『미크로파나스트론』
+v1-28. 플라시두스 · 『원동천』
+v1-29. 라파엘 · 『19세기의 점성가』
+v1-30. 세파리얼 · 『새 점성술 교본』
+v1-31. 세파리얼 · 『자신의 호로스코프를 만들고 읽는 법』
+v1-32. 비비언 롭슨 · 『점성술 학생 교본』
+v1-33. 비비언 롭슨 · 『점성술의 항성과 별자리』
+v1-34. 앨런 레오 · 『출생도를 판단하는 법』
+v1-35. 앨런 레오 · 『종합의 기술』
+v1-36. 에반젤린 애덤스 · 『점성술: 태양 아래 당신의 자리』
+v1-37. 바라하미히라 · 『브리하트 자타카』
+v1-38. 이븐 에즈라 · 『이유의 책』 I·II
+v1-39. 이븐 에즈라 · 『세계의 책』 I·II
+v1-40. 이븐 에즈라 · 『택일서·질문서·의료점성술서』
+v1-41. 이븐 에즈라 · 『출생서·회귀서』
+v1-42. 이븐 에즈라 · 『지혜의 시작·황도대 판단서』
+
+[v2 기존 목록]
+
+v2-N01. 아누비온 · 점성술 단편
+v2-N02. 위마네토 · 『아포텔레스마티카』
+v2-N03. 헤르메스 전승 · 『의료점성술』
+v2-N04. 막시무스 · 『카타르케』
+v2-N05. 암몬 · 점성술 단편
+v2-N06. 익명 · 그리스 점성술 소논고·부록
+v2-N07. 헤파이스티온 전승 · 『제3요약본』
+v2-N08. 위프로클로스 · 『프톨레마이오스의 네 권에 대한 의역』
+v2-N09. 리두스 · 『천상징조에 관하여』와 그리스 역법
+v2-N10. 알킨디 · 『아랍의 왕권에 관한 서한』
+v2-N11. 아부 마샤르 전승 · 『점성술의 꽃』
+v2-N12. 아부 마샤르 · 『나무다르에 관한 논고』
+v2-N13. 이븐 아비 타히르 · 『대합에 관한 요약』
+v2-N14. 쿠시야르 · 『점성술 판단의 요약』 [muse-02 · 번역 예정]
+v2-N15. 알비루니 · 『점성술 기예의 초보를 위한 교본』 아랍어본
+v2-N16. 시리아어 『의약서』의 점성술편
+v2-N17. 바이다나타 · 『자타카 파리자타』
+v2-N18. 투시 · 『역법을 아는 데 관한 서른 장』
+v2-N19. 레오폴드 전승 · 『별의 학문 집성』
+v2-N20. 에셴든 · 『세계의 사건들에 관한 판단점성술 총론』
+v2-N21. 이마드 알무나짐 전승 · 『이스칸다르의 출생도서』
+v2-N22. Or 5591 · 아랍 점성술·점술 논고집
+v2-N23. 요하네스 앙겔루스 · 『평면 아스트롤라베』
+v2-N24. 알부바테르 · 『출생론』
+v2-N25. 요하네스 쇠너 · 『출생 판단의 세 책』
+v2-N26. 루카 가우리코 · 『점성술 논고』
+v2-N27. 브룬펠스 · 『점성술의 정의와 용어』
+v2-N28. 위프톨레마이오스 · 『100격언』과 여러 전승의 주석
+v2-N29. 프톨레마이오스 명의 · 『항성의 징후에 관하여』
+v2-N30. 헤르메스 전승 · 『100격언』
+v2-N31. 베템·알바타니 전승 · 『100격언』
+v2-N32. 알만수르 전승 · 『사라센인의 왕에게 바친 명제들』
+v2-N33. 베텐·알바타니 전승 · 『행성들의 시간에 관하여』
+v2-N34. 사흘 · 『열두 하우스에 따른 택일서』
+v2-N35. 마샤알라 · 『원과 별에 관한 논고』
+v2-N36. 우마르 · 『출생 판단의 세 책』
+v2-N37. 캄파넬라 · 『점성술론』 6권
+v2-N38. 조지프 블라그레이브 · 『점성 의술 실천』
+v2-N39. 리처드 손더스 · 『점성학적 의학 판단과 의술의 실제』
+v2-N40. 제임스 윌슨 · 『점성술 대사전』
+v2-N41. 로백 · 『점성술의 신비』 [dot · 번역 완료]
+v2-N42. 베넷 · 『지식과 이성의 점성술』 [dot · 번역 완료]
+v2-N43. 브로턴 · 『점성술의 요소』 [dot · 번역 중]
+v2-N44. 앨런 레오 · 『모두를 위한 점성술』 [dot · 번역 예정]
+v2-N45. 세파리얼 · 『우주 상징주의』 [dot · 번역 예정]
+v2-N46. 앨런 레오 · 『진행 호로스코프』 [dot · 번역 예정]
+v2-N47. 하인델 · 『별들의 메시지』 [dot · 번역 예정]
+v2-N48. 하인델 · 『간명한 과학적 점성술』 [dot · 번역 예정]
+v2-N49. 세파리얼 · 『점성술과 결혼』
+
+[번역 완료] 105개
+
+1. [grok-01] G001 De iudiciis nativitatum liber unus, antehac non editus — first translation
+2. [grok-01] G002 Practical Astrology. In Two Parts — first translation
+3. [grok-01] G003 Opusculum astrologicum, ex diversorum libris … collectum — first translation
+4. [muse-01] abuhali-astrologia-terrestris-1715
+5. [muse-01] agrippa-de-occulta-philosophia-1533
+6. [muse-01] alkindi-de-temporum-mutationibus-1540
+7. [muse-01] aratus-phaenomena-buhle-1793
+8. [muse-01] augustine-civitate-dei-dombart-1877-vol1
+9. [muse-01] augustine-civitate-dei-dombart-1877-vol2
+10. [muse-01] avienus-aratea
+11. [muse-01] bacon-opera-quaedam-inedita-1859
+12. [muse-01] bar-bahlul-lexicon-syriacum-duval-1888-vol1
+13. [muse-01] bar-bahlul-lexicon-syriacum-duval-1890-vol2
+14. [muse-01] bar-bahlul-lexicon-syriacum-duval-1901-vol3
+15. [muse-01] barrett-magus-celestial-intelligencer-1801
+16. [muse-01] biruni-chronologie-orientalischer-voelker-sachau-1878
+17. [muse-01] boll-sphaera-1903
+18. [muse-01] brahe-de-disciplinis-mathematicis-oratio-1621
+19. [muse-01] calcidius-timaeus-1617
+20. [muse-01] censorinus-de-die-natali
+21. [muse-01] choisnard-influence-astrale-1924
+22. [muse-01] cicero-divinatione-fato-mueller-1915
+23. [muse-01] cleomedes-de-motu-circulari-1891
+24. [muse-01] craig-astrological-astronomical-texts-1899
+25. [muse-01] cumont-astrology-religion-1912
+26. [muse-01] cumont-oriental-religions-1911
+27. [muse-01] cureton-spicilegium-syriacum-1855
+28. [muse-01] daressy-ancienne-liste-decans-egyptiens-1900
+29. [muse-01] donnolo-commento-castelli-1880
+30. [muse-01] eland-tutor-to-astrology-1694
+31. [muse-01] elystar-astrologie-populaire-1902
+32. [muse-01] eratosthenes-catasterismorum-1878
+33. [muse-01] ficino-de-vita
+34. [muse-01] friedrich-astrologie-reformation-1864
+35. [muse-01] geminus-elementa-astronomiae-1898
+36. [muse-01] germanicus-aratea
+37. [muse-01] gosselin-astrologie-naturelle-1619
+38. [muse-01] grassetti-metodo-facile-1698
+39. [muse-01] grassetti-vera-falsa-1683
+40. [muse-01] green-mundane-national-astrology-1911
+41. [muse-01] haebler-astrologie-im-alterthum-1879
+42. [muse-01] hannemann-fortsetzung-1701
+43. [muse-01] hannemann-verthaedigung-1699
+44. [muse-01] heydon-astrological-discourse-1650
+45. [muse-01] hipparchus-in-arati-manitius-1894
+46. [muse-01] hippolytus-philosophumena-duncker-1860
+47. [muse-01] hyginus-astronomica-bunte-1875
+48. [muse-01] indagine-introductiones-apotelesmaticae-1522
+49. [muse-01] isidore-etymologiae-lindsay-1911-vol1
+50. [muse-01] isidore-etymologiae-lindsay-1911-vol2
+51. [muse-01] jataka-chandrika-suryanarain-rao-1900
+52. [muse-01] kaiyuan-zhanjing-juan1-3-siku
+53. [muse-01] kirby-bishop-marrow-of-astrology-1687
+54. [muse-01] kitab-al-bulhan-1390
+55. [muse-01] kroll-de-oraculis-chaldaicis-1894
+56. [muse-01] leonardi-speculum-lapidum-1502
+57. [muse-01] lichtenberger-prognosticatio-1500
+58. [muse-01] ljs57-hebrew-astronomical-anthology-1361
+59. [muse-01] lydus-de-mensibus-1827
+60. [muse-01] maass-commentariorum-in-arati-1898
+61. [muse-01] macrobius-commentarii-1868
+62. [muse-01] manfredi-libro-del-perche-1478
+63. [muse-01] marbode-de-lapidibus-1531
+64. [muse-01] martianus-capella-de-nuptiis-1866
+65. [muse-01] mensinga-astrologie-1871
+66. [muse-01] middleton-practical-astrology-1679
+67. [muse-01] mizauld-1555-1551
+68. [muse-01] moore-vox-stellarum-almanack-1774
+69. [muse-01] narada-samhita-1906
+70. [muse-01] nicoullaud-manuel-astrologie-1897
+71. [muse-01] nifo-de-auguriis-1531
+72. [muse-01] noceto-astrologia-ottima-indifferente-pessima-1663
+73. [muse-01] nostradamus-propheties-1866
+74. [muse-01] petrus-alliaco-1490
+75. [muse-01] peucer-de-divinationum-1602
+76. [muse-01] pietro-dabano-conciliator-1522
+77. [muse-01] pliny-naturalis-historia-1851
+78. [muse-01] plotinus-enneades-volkmann-1883-vol1
+79. [muse-01] plotinus-enneades-volkmann-1884-vol2
+80. [muse-01] pontano-opera-1533
+81. [muse-01] proclus-hypotyposis-manitius-1909
+82. [muse-01] prthuyasas-shatpanchasika-1947
+83. [muse-01] psellos-de-operatione-daemonum-boissonade-1838
+84. [muse-01] pseudo-aristotle-secreta-secretorum-1486
+85. [muse-01] qazwini-kosmographie-wustenfeld-1849
+86. [muse-01] saravali-1907
+87. [muse-01] schmitz-der-geist-der-astrologie-1922
+88. [muse-01] schwimmer-deliciae-1704
+89. [muse-01] sefer-raziel-ha-malakh-1701
+90. [muse-01] selva-traite-astrologie-genethliaque-1900
+91. [muse-01] sextus-empiricus-adversus-mathematicos-1841
+92. [muse-01] simmonite-complete-arcana-1890
+93. [muse-01] simmonite-horary-astrology-1896
+94. [muse-01] simmonite-prognostications-revolutions-1854
+95. [muse-01] solomon-basra-book-of-bee-budge1886
+96. [muse-01] stella-horary-astrology-1832
+97. [muse-01] theon-smyrna-expositio-1878
+98. [muse-01] thibaut-astronomie-astrologie-1899
+99. [muse-01] trew-astrologia-medica-1663
+100. [muse-01] uhlemann-grundzuege-1857
+101. [muse-01] worsdale-genethliacal-astrology-1798
+102. [muse-01] yuanhai-ziping-daquan-1600-ming
+103. [muse-01] zadkiel-handbook-astrology-1861
+104. [muse-01] ziwei-doushu-quanshu-ming
+105. [muse-02] Περὶ καταρχῶν / De actionum auspiciis
+
+[번역 중] 4개
+
+1. [muse-01] Brihat Parashara Hora Shastra (1899 뭄바이판 1권)
+2. [muse-01] Digges A Prognostication everlasting 1556 (v2 6번)
+3. [muse-01] v2 45권 번역 코디네이터
+4. [muse-02] Παρανατέλλοντα and related decan / zodiac fragments
+
+[번역 예정] 214개
+
+1. [dot] Abraham Ibn Ezra, *De nativitatibus* (+ Henri Bate, *Magistralis compositio astrolabii*)
+2. [dot] Andrea Argoli, *De diebus criticis et aegrorum decubitu libri duo*
+3. [dot] Andrea Argoli, *Pandosion Sphæricum* (Editio secunda)
+4. [dot] Auger Ferrier, *Jugements astronomiques sur les nativités*
+5. [dot] Johannes Kepler, *Tertius Interveniens*
+6. [dot] John Chamber, *A Treatise Against Judicial Astrologie*
+7. [dot] John Dee, *Propaedeumata aphoristica*
+8. [dot] John Gadbury, *Cardines Cœli*
+9. [dot] John Gadbury, *Collectio Geniturarum* (CL genitures)
+10. [dot] John Gadbury, *De cometis*
+11. [dot] John Gadbury, *Nauticum Astrologicum* (posthumous)
+12. [dot] John Gadbury, *Thesaurus Astrologiae*
+13. [dot] John Goad, *Astro-meteorologia sana* (Latin)
+14. [dot] John Goad, *Astro-meteorologica*
+15. [dot] John Partridge, *Defectio Geniturarum*
+16. [dot] John Partridge, *Opus reformatum: or, a treatise of astrology*
+17. [dot] John Worsdale, *A collection of remarkable nativities*
+18. [dot] Joseph Blagrave, *Introduction to Astrology* (3 parts)
+19. [dot] Lorenzo Bonincontri (ed. Luca Gauricus), *De rebus coelestibus libri tres*
+20. [dot] Placidus de Titus / M. Sibly, *A Collection of Thirty Remarkable Nativities*
+21. [dot] Richard Edlyn, *Observationes Astrologicae*
+22. [dot] Richard Edlyn, *Prae-nuncius sydereus*
+23. [dot] Richard Kirby, *Vates Astrologicus*
+24. [dot] Robert Turner, *Astrological Institutions*
+25. [dot] Sir Christopher Heydon, *A Defence of Judiciall Astrologie*
+26. [dot] William Salmon, *Horae Mathematicae seu Urania* (The Soul of Astrology)
+27. [dot] Zadkiel (R. J. Morrison), *The Grammar of Astrology*
+28. [muse-01] v2 10번 세파리얼, 『The Science of Foreknowledge』, 1922, 영어. 동서 점성 연구와 라디
+29. [muse-01] v2 14번 식스투스 압 헤밍가, 『Astrologiae ratione et experientia refutatae li
+30. [muse-01] v2 15번 플라시두스 데 티티, 『Physiomathematica, sive Coelestis philosophia』,
+31. [muse-01] v2 16번 존 개드버리, 『Speculum astrologicum』, 1657, 영어. 그해의 점성 판단과 달의 출몰,
+32. [muse-01] v2 17번 존 개드버리, 『Britains Royal Star』, 1661, 영어. 1660년 5월 8일 찰스 2세 선
+33. [muse-01] v2 18번 장 마베리크, 『La lumière astrale』, 1910, 프랑스어. 하우스 표 없이 천궁을 세우는 판
+34. [muse-01] v2 19번 장 타이스니에, 『Astrologiae iudiciariae ysagogica』, 1559, 라틴어. 판단
+35. [muse-01] v2 20번 요한네스 피쿠스 미란돌라, 콘코르디아 백작, 『Disputationum adversus astrologos
+36. [muse-01] v2 22번 모리스 웨미스, 『The Wheel of Life, or Scientific Astrology』 제1권, 1
+37. [muse-01] v2 23번 모리스 웨미스, 『The Wheel of Life, or Scientific Astrology』 제2권, 1
+38. [muse-01] v2 24번 요한네스 히스팔렌시스, 『Epitome totius astrologiae』, 1548, 라틴어. 점성술 전체
+39. [muse-01] v2 25번 니컬러스 컬페퍼, 『Opus astrologicum』, 1654, 영어. 호라리 격언과 전쟁·여행·건축·혼인
+40. [muse-01] v2 26번 폴 플랑바르(폴 슈아나르), 『Preuves et bases de l'astrologie scientifiq
+41. [muse-01] v2 27번 존 개드버리, 『London's Deliverance Predicted』, 1665, 영어. 역병의 원인과
+42. [muse-01] v2 28번 발렌틴 바이겔, 『Astrology Theologized』, 1886, 영어. 별이 사람에게 미치는 영향과
+43. [muse-01] v2 29번 존 개드버리, 『Coelestis Legatus』, 곧 『The Coelestial Ambassadour』,
+44. [muse-01] v2 31번 게오르크 탄슈테터(게오르기우스 콜리미티우스), 『Artificium de applicatione astrol
+45. [muse-01] v2 32번 페트루스 하스카르두스, 『Clypeus astrologicus』, 1552, 라틴어. 브뤼허의 의사 프란키스
+46. [muse-01] v2 33번 루시크 모훈 차테르지, 『Extracts from Works on Astrology』 제1권, 1880, 영
+47. [muse-01] v2 34번 루시크 모훈 차테르지, 『Extracts from Works on Astrology』 제2권, 영어. 출생
+48. [muse-01] v2 35번 W. 프랭클랜드, 『New Measures in Astrology』, 1928, 영어. 디렉션의 상징 척도.
+49. [muse-01] v2 36번 찰스 아서 머시에, 『Astrology in Medicine』, 1914, 영어. 1913년 11월 6일과
+50. [muse-01] v2 37번 A. E. 티렌스, 『Cosmologie. Elementen der practische astrologie』
+51. [muse-01] v2 39번 후안 데 카르모나, 『Tractatus an astrologia sit medicis necessaria』,
+52. [muse-01] v2 40번 바티스타 데 루베르티, 『Osservazioni de astrologia et altre appartenen
+53. [muse-01] v2 41번 토마스 에라스투스, 요한 야코프 그리네우스, 『De astrologia divinatrice epistola
+54. [muse-01] v2 42번 모세 마이모니데스, 『Epistola de astrologia』, 1555, 히브리어·라틴어. 요한 이작 레
+55. [muse-01] v2 45번 자크 가파렐, 『Curiositez inouyes』, 1629, 프랑스어. 페르시아인의 탈리스만 조각, 족장
+56. [muse-01] v2 46번 하인리히 니콜라이, 『De astrologiae veritate』, 1657, 라틴어. 점성의 참됨과 그리스
+57. [muse-01] v2 47번 피르맹 드 보발, 『Repertorium de mutatione aeris』, 1485, 라틴어. 점성으로
+58. [muse-01] v2 48번 토마스 핀케, 『Horoscopographia』, 1591, 라틴어. 별의 점성학적 위치를 구하는 법. 하인
+59. [muse-01] v2 49번 오토 카스만, 『Astrologia, chronographia et astromanteia』, 1599, 라
+60. [muse-01] v2 50번 셰이로, 『When Were You Born?』, 1922, 영어. 태어난 달과 황도궁으로 보는 성격. 런던
+61. [muse-01] v2 51번 B. 수리아나라인 로우, 『The Astrological Self Instructor』, 1893, 영어.
+62. [muse-01] v2 52번 콩트 C. 드 생제르맹, 『Practical Astrology』, 1901, 영어. 천궁을 세우는 간단한 방
+63. [muse-01] v2 54번 니컬러스 컬페퍼, 『Catastrophe magnatum』, 곧 『The Fall of Monarchie』,
+64. [muse-01] v2 55번 찰스 E. O. 카터, 『Symbolic Directions in Modern Astrology』, 1929
+65. [muse-01] v2 56번 글래디스 딕슨, 『A Jerusalem Christian Treatise on Astrology』, 1909
+66. [muse-01] v2 57번 아벨 아탕, 『Traité d'astrologie judiciaire』, 1895, 프랑스어. 판단 점성.
+67. [muse-01] v2 58번 마그누스 젠슨, 『Everybody's Astrology』, 1922, 영어. 점성과 심리. 캘리포니아 카미
+68. [muse-01] v2 59번 니콜라우스 데 샤데크, 『Tractatus seu responsio de loco ad quaestionem
+69. [muse-01] v2 7번 F. R. 화이트, R. 홀링스워스, 『A Treatise on Medical Astrology』, 1899
+70. [muse-01] v2 8번 하인리히 다트, 『Medical Astrology』, 1907, 영어. 앨런 레오의 Astrological
+71. [muse-01] v2 9번 폴 플랑바르(폴 슈아나르), 『Langage astral』, 1902, 프랑스어. 과학적 점성술 입문. mu
+72. [muse-01] 신규 수집 PDF 자동 번역 큐 편입
+73. [muse-02] A. E. Housman, The Michigan Astrological Papyrus (1927), 257–263 — full journal issue
+74. [muse-02] Add MS 7473 아랍어 합본
+75. [muse-02] Aestimatio7(2010) containing Stephan Heilen, Anubio Reconsidered,127–192
+76. [muse-02] al-Mukhtār min kutub al-ikhtiyārāt al-falakīyah
+77. [muse-02] Alessandro Olivieri, Frammenti dell’Astrologia di Efestione Tebano nel cod. Laurenziano 28, 34; SIFC6(1898) whole volume
+78. [muse-02] Alexander Jones, PSI XV 1490–1495 (editions of astronomical and astrological papyri, unsigned), in V. Bartoletti et al., Papiri greci e latini XV (Firenze: Istituto Papirologico G. Vitelli, 2008), pp.132–164, plates XXIX–XXXII
+79. [muse-02] Alexander Jones, The Horoscope of AD 497 Attributed to Eutocius: Text, Translation, and Commentary, Occasional Notes on the Ancient Astral Sciences 1 (2026), DOI 10.5281/zenodo.18852314
+80. [muse-02] Alfonso Carlos Domínguez-Alonso, La Influencia Astrológica sobre la Pasión amorosa en el Comentario Anónimo al Tetrabiblos de Tolomeo: Edición Crítica, Traducción y Comentario, MHNH15(2015)253–270
+81. [muse-02] Amicus medicorum
+82. [muse-02] Annemarie Ambühl, Donka Markovska and Kristina Milnor, P. Mich. inv. 29: Two Astrological Treatises, ZPE 105 (1995), pp.229–236, plate VIII
+83. [muse-02] Arabic astrological and divinatory collection
+84. [muse-02] Arthur Ludwich, Das elegische Lehrgedicht des Astrologen Anubion und die Manethoniana, Philologus 63 (1904), 116–134
+85. [muse-02] Arthur Ludwich, Nachlese zu den Fragmenten des Astrologen Anubion, Philologus 64 (1905), 280–283
+86. [muse-02] Astrolabium planum in tabulis ascendens
+87. [muse-02] Astrologia naturalis sive tractatus de effectibus astrorum absolutissimus
+88. [muse-02] Astrologiae methodus
+89. [muse-02] Astrologicorum libri VI
+90. [muse-02] Aurelio Pérez-Jiménez, Antiochi De stellarum in locis thematis significationibus fragmentum epicum (2014)
+91. [muse-02] C. A. Faraone and S. Torallas Tovar (eds), Greek and Egyptian Magical Formularies: Text and Translation, vol. 1 (2022), GEMF 13, pp. 49–50
+92. [muse-02] C. H. Roberts, Catalogue of the Greek and Latin Papyri in the John Rylands Library, Volume III (1938): P.Ryl. III 488, Fragment of an Anthology; whole volume
+93. [muse-02] Caballero Sánchez and Bautista Ruiz, Una paráfrasis inédita de los Tesoros de Antíoco de Atenas: el epítome IIa (2006)
+94. [muse-02] De astrologica ratione ac usu dierum criticorum
+95. [muse-02] De astrologica veritate; Defensio astrologiae contra Ioannem Picum Mirandulam
+96. [muse-02] De iudiciis nativitatum liber praeclarissimus (in Gaurico, Tractatus astrologiae iudiciariae)
+97. [muse-02] De rebus coelestibus libri XIIII; De Luna fragmentum
+98. [muse-02] Del Corso and Luiselli, Literary Papyri from the Bodleian Library and Other Collections: accepted postprint
+99. [muse-02] Domínguez Alonso, La parafrasi bizantina di Isaac Argiro del Commento Anonimo al Tetrabiblos di Tolomeo: Edizione critica bilingue (2019 thesis; repository publication2022)
+100. [muse-02] Dorian Gieseler Greenbaum and Franziska Naether, Astrological Implications in the ‘Lot Oracle’ PGM 50, MHNH 11 (2011), 484–505
+101. [muse-02] Enarratio elementorum astrologiae
+102. [muse-02] Ernestus Schaefer, P.Iand. I 3, Fragmentum astrologicum (1912), pp.9–12, tab.III; Papyri Iandanae I–IV (1912–1914), whole bound volume
+103. [muse-02] Frank Egleston Robbins, A New Astrological Treatise: Michigan Papyrus No. 1 (1927), 1–45 — full journal issue
+104. [muse-02] Franz Boll, Astrologisches aus den Münchener Papyri, APF 1(1901)492–501; whole volume
+105. [muse-02] Franz Boll, Nr. 23. Astrologisches Bruchstück, in Ernst Rabel, Papyrusurkunden der Öffentlichen Bibliothek der Universität zu Basel (1917), pp.85–88; whole volume
+106. [muse-02] Franz Boll, PSI III 157–158, in Papiri greci e latini, vol. III (1914), pp.1–10; whole volume
+107. [muse-02] G. C., 『A Treatise of Mathematicall Phisicke』, 1598, 영어. 다리오 1598년 영어판에 붙은 의학 점성 논고. 다리오 입문서와 다른 글.
+108. [muse-02] G. Zereteli and P. Jernstedt, Papyri russischer und georgischer Sammlungen V: Varia (Tiflis, 1935), no. 2, Bruchstücke eines astrologischen Traktats, pp. 5–12; addendum p. 273. Bound I–V source scan
+109. [muse-02] Girolamo Vitelli et al., Papiri greci e latini VI (Firenze: E. Ariani, 1920), no.727, Frammento astrologico?, printed p.166; full source volume
+110. [muse-02] Greenbaum and Jones, P.Berl.9825,ISAW Papers12(2017)
+111. [muse-02] Grenfell and Hunt, The Oxyrhynchus Papyri, Part III (1903): P.Oxy. III 465, Astrological Calendar; whole volume
+112. [muse-02] Grenfell, Hunt and Goodspeed, The Tebtunis Papyri, Part II (1907; 1970 reprint): P.Tebt. II 276–277; whole volume
+113. [muse-02] H. J. M. Milne, Catalogue of the Literary Papyri in the British Museum (1927): P.Lond.Lit.172 = Papyrus 2397 verso; whole volume
+114. [muse-02] Horarum natalium centuria I et II
+115. [muse-02] Isabella Andorlini, πολλὰ ἰατρῶν ἐστι συγγράμματα. Scritti sui papiri e la medicina antica, ed. Nicola Reggiani, Studi sul Mondo Antico 5 (Firenze: Le Monnier Università, 2017)
+116. [muse-02] Jadāvil-i ikhtiyārāt [cataloguer-supplied title]
+117. [muse-02] Jean-Luc Fournet and Anne Tihon, “Fragment d’un texte astrologique et astronomique,” in Francesca Maltomini, Simona Russo and Marco Stroppa (eds), Papiri della Società Italiana, volume diciassettesimo (PSI XVII), Edizioni dell’Istituto Papirologico «G. Vitelli» 8 (Firenze: Firenze University Press, 2018), pp.97–104, plate XVIII.
+118. [muse-02] Johnson, Martin and Hunt, Catalogue of the Greek Papyri in the John Rylands Library, Volume II (1915): P.Ryl. II 63, Astrological Dialogue; whole volume
+119. [muse-02] Kitāb al-masāʾil
+120. [muse-02] Kitāb al-Tabṣira fī ʿilm al-nujūm: chapter VII
+121. [muse-02] Laszlo_Zeno_ELTE.pdf
+122. [muse-02] Luca Farina, Astrologia e astronomia araba nella Costantinopoli paleologa (doctoral thesis, defended 6 June 2022)
+123. [muse-02] Luca Farina, The Greek Fragments of the Works of Mashallah ibn Athari, Mediterranea 7 (2022), 225-279
+124. [muse-02] Ludwig Weigl, Studien zu dem unedierten astrologischen Lehrgedicht des Johannes Kamateros (Würzburg, 1902)
+125. [muse-02] MHNH 3 (2003), full volume: Anoubion P.Oxy. 4503–4505 Greek texts and unpublished astrological sections of Vaticanus gr. 952
+126. [muse-02] MHNH02_2002_Bezza.pdf
+127. [muse-02] Michael Zellmann-Rohrer, P.Lit.Var. 19: Treatise on Medical Astrology (2024)
+128. [muse-02] Miller_1872_Poemes.pdf
+129. [muse-02] Opera omnia, tomus V: Astronomica, astrologica, onirocritica
+130. [muse-02] Otto Neugebauer and Henry B. Van Hoesen, Greek Horoscopes (1959)
+131. [muse-02] P.Merton II 56: Astrological text concerning Venus (Chester Beatty official photographic facsimile)
+132. [muse-02] P.Merton II 57: Astrological text with prognostications (Chester Beatty official photographic facsimile)
+133. [muse-02] Papyri in the University of Michigan Collection: Miscellaneous Papyri (Michigan Papyri III)
+134. [muse-02] Paul Schubert, Julien l’Arien critique du poète astrologue Anoubion, Museum Helveticum69(2012)194–209
+135. [muse-02] Pseudo-Galen, Prognostica de decubitu ex mathematica scientia — Kühn XIX (1830) 전체 권
+136. [muse-02] Ptolemaeus parvus in genethliacis iunctus Arabibus
+137. [muse-02] R. C. 톰슨, 『The Reports of the Magicians and Astrologers of Nineveh and Babylon』 제1권, 1900. 설형문자.
+138. [muse-02] Raúl Caballero Sánchez, Sobre los signos que indican los deseos amorosos: problemas de autoría en torno a un texto astrológico transmitido en el Comentario Anónimo al Tetrabiblos de Tolomeo, Minerva31(2018)133–158
+139. [muse-02] Raúl Caballero-Sánchez, El Comentario anónimo al Tetrabiblos de Tolomeo. Edición crítica y traducción castellana de los escolios metodológicos del libro I, MHNH 13(2013)221–258; whole volume
+140. [muse-02] Raúl Caballero-Sánchez, Heliodoro de Alejandría y el Comentario Anónimo al Tetrabiblos de Tolomeo, Humanitas76(2020)33–56
+141. [muse-02] Strauch, Aphorismi astrologici — 고유 본문·잔여 대조 (Leovitius는 G035 연결)
+142. [muse-02] Sārāvalī
+143. [muse-02] T. de Jong and K. A. Worp, A Greek Horoscope from 373 A.D., ZPE 106 (1995), pp.235–240, plate XI
+144. [muse-02] Tabulae directionum profectionumque
+145. [muse-02] The Chronokratores in Greek Astrology, in Light of a New Papyrus Text: Oxford, Bodl. MS Gr. Class. B 24 (P) 1–2
+146. [muse-02] Three Deluxe Horoscopes
+147. [muse-02] Théodore Reinach with Wilhelm Spiegelberg and Seymour de Ricci, Papyrus grecs et démotiques (1905; 1972 reprint): P.Rein.I.6, Fragment astrologique en prose; whole volume
+148. [muse-02] Tractatus astrologicus de genethliacorum thematum iudiciis
+149. [muse-02] Usener_1914_KleineSchriftenIII.pdf
+150. [muse-02] Usener_Stephanus_1879.pdf
+151. [muse-02] W. J. 시머나이트, 『Complete Arcana of Astral Philosophy』, 1890, 영어.
+152. [muse-02] W. J. 시머나이트, 『Horary Astrology』, 1896, 영어.
+153. [muse-02] Wilhelm Schubart, Die Papyri der Universitätsbibliothek Erlangen (1942): P.Erl.14 = inventory 129; whole volume
+154. [muse-02] Zola M. Packman, Instructions for the Use of Planet Markers on a Horoscope Board, ZPE 74 (1988), 85–95, plate IIIa
+155. [muse-02] Εἰσαγωγὴ εἰς τὴν Ἀποτελεσματικὴν τοῦ Πτολεμαίου
+156. [muse-02] Παράφρασις εἰς τὴν τοῦ Πτολεμαίου Τετράβιβλον
+157. [muse-02] Περὶ διοσημειῶν / De ostentis
+158. [muse-02] Ἀποτελεσματικά / Apotelesmatica
+159. [muse-02] Ἀστρολογούμενα and other fragments; Nechepsonis et Petosiridis fragmenta magica
+160. [muse-02] 갈레노스, 『위기일에 관하여』 III.1–7 잔여 그리스어 증인
+161. [muse-02] 같은 책 제2권, 1900. 영어 번역과 음역.
+162. [muse-02] 니사의 그레고리우스, 『운명에 반대하여』
+163. [muse-02] 라파엘, 『A Description of the Faces and Degrees of the Zodiac』, 1879, 영어.
+164. [muse-02] 라파엘, 『A Manual of Astrology』, 1828, 영어.
+165. [muse-02] 라파엘, 『The Familiar Astrologer』, 1841, 영어.
+166. [muse-02] 라파엘, 『The Guide to Astrology』, 1905, 영어.
+167. [muse-02] 로버트 플러드, 『Utriusque cosmi historia』, 1618, 라틴어. 이 파일은 두 권으로 나뉜 표제 중 한 권.
+168. [muse-02] 로버트 플러드, 『Utriusque cosmi』, 1619, 라틴어. 소우주 권. 1618년 권과 다른 권.
+169. [muse-02] 루키아노스 전승, 『점성술에 관하여』 §§1–29
+170. [muse-02] 를웰린 조지, 『The Astrologer's Searchlight』, 1922, 영어.
+171. [muse-02] 리처드 볼, 『An Astrolo-physical Compendium』, 1697, 영어.
+172. [muse-02] 바라하미히라, 『Brihat Samhita』, 케른 교정본 1865, 산스크리트어.
+173. [muse-02] 바실레이오스, 『육일 창조론』 VI.5–7 잔여
+174. [muse-02] 세파리얼, 『Directional Astrology』, 1915, 영어.
+175. [muse-02] 섹스투스, 『점성가들에 반대하여』 판본·교감 대조
+176. [muse-02] 알비루니, 『The Chronology of Ancient Nations』, 자하우 영역 1879, 영어.
+177. [muse-02] 앨런 레오, 『Esoteric Astrology』, 1918, 영어. 1918년 Modern Astrology 재간. 이미 예정된 『Astrology for All』, 『The Progressed Horoscope』, 『출생도 판단법』, 『종합의 기술』과 이미 받은 『The Key to Your Own Nativity』, 『Saturn, the Reaper』, 『Jupiter: the Preserver』와 다른 책.
+178. [muse-02] 앨런 레오, 『Jupiter: the Preserver』, 1917, 영어.
+179. [muse-02] 앨런 레오, 『Saturn, the Reaper』, 1916, 영어.
+180. [muse-02] 앨런 레오, 『The Key to Your Own Nativity』, 1920, 영어.
+181. [muse-02] 앨프리드 J. 피어스, 『The Science of the Stars』, 1881, 영어.
+182. [muse-02] 에반젤린 애덤스, 『Astrology: Your Place Among the Stars』, 1930, 영어.
+183. [muse-02] 에벤에저 시블리, 『A New and Complete Illustration of the Celestial Science of Astrology』, 1817, 영어.
+184. [muse-02] 에우세비우스 VI.10의 바르데사네스 그리스어 발췌 잔여
+185. [muse-02] 엘리너 커크, 『The Influence of the Zodiac upon Human Life』, 1894, 영어. 황도 도수에 따른 성향.
+186. [muse-02] 오롱스 피네, 『De duodecim caeli domiciliis』, 1553, 라틴어.
+187. [muse-02] 요하네스 케플러, 『De cometis libelli tres』 (1619, 라틴어)
+188. [muse-02] 요하네스 케플러, 『De stella nova in pede Serpentarii』, 1606, 라틴어.
+189. [muse-02] 요하네스 케플러, 『Harmonices mundi』, 1619, 라틴어. 제4권이 점성술.
+190. [muse-02] 윌리엄 릴리, 『Catastrophe mundi, or Merlin reviv'd』, 1683, 영어.
+191. [muse-02] 윌리엄 릴리, 『Englands propheticall Merline』, 1644, 영어.
+192. [muse-02] 윌리엄 릴리, 『Monarchy or no monarchy』, 1651, 영어.
+193. [muse-02] 윌리엄 릴리, 『The Starry Messenger』, 1645, 영어.
+194. [muse-02] 윌리엄 앤드루스, 『The Astrological Physitian』, 1656, 영어.
+195. [muse-02] 윌리엄 일랜드, 『A Tutor to Astrologie』, 1694, 영어.
+196. [muse-02] 존 개드버리, 『Natura prodigiorum』, 1665, 영어.
+197. [muse-02] 존 개드버리, 『Obsequium rationabile』 (1675, 영어)
+198. [muse-02] 존 버틀러, 『Hagiastrologia』 (1680, 영어)
+199. [muse-02] 존 워스데일, 『The Nativity of Bonaparte』, 1805, 영어.
+200. [muse-02] 존 케이스, 『The Angelical Guide』, 1697, 영어.
+201. [muse-02] 존 파트리지, 『Prodromus』, 1679, 영어. 1680년과 1681년에 나타날 천체 배치. 『Opus reformatum』, 『Defectio geniturarum』, 『Mikropanastron』과 다른 책.
+202. [muse-02] 존 헤이던, 『The Harmony of the World』, 1662, 영어.
+203. [muse-02] 존 헤이던, 『The Holy Guide』, 1662, 영어.
+204. [muse-02] 존 헤이던, 『The Rosie Crucian Infallible Axiomata』 (1660, 영어)
+205. [muse-02] 존 헤이던, 『Theomagia, or The Temple of Wisdome』, 1663, 영어.
+206. [muse-02] 존 홀웰, 『Catastrophe mundi』, 1682, 영어.
+207. [muse-02] 찰스 E. O. 카터, 『A Concise Encyclopaedia of Psychological Astrology』, 1924, 영어.
+208. [muse-02] 찰스 리드베터, 『A Treatise of Eclipses』 (1717, 영어)
+209. [muse-02] 클로드 다리오, 『Discours de la goutte』, 의학 논고. 통풍. 별의 판단 입문서와 다른 글.
+210. [muse-02] 키프리아누스 레오비츠, 『De coniunctionibus magnis』, 1573, 라틴어.
+211. [muse-02] 튀코 브라헤, 『De nova stella』, 1573년 작품의 1901년 재간, 라틴어.
+212. [muse-02] 파라켈수스, 『Philosophia sagax』, 곧 『Astronomia Magna』, 1603, 독일어. 요하네스 후저 편집 저작집 제10권. 프랑크푸르트, 베헬 상속인.
+213. [muse-02] 플로티노스, Ennead II.3 [52] 잔여 본문·교감
+214. [muse-02] 하인리히 코르넬리우스 아그리파, 『De occulta philosophia libri III』, 1550, 라틴어. 리옹, 베링고 형제. 제2권이 천체.
